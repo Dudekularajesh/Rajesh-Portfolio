@@ -22,8 +22,8 @@ Welcome to my personal developer portfolio! This website is a reflection of my s
 
 **🔗 Check it out live:**
 
-🌐 Live Portfolio
-📂 GitHub Repo
+🌐 [Live Portfolio](./https://dudekularajesh.github.io/Rajesh-Portfolio/)
+📂 [GitHub Repo]
 📄 [Download Resume](./D.%20RajeshResume2.pdf)
 
 🙌 Feel free to explore, give feedback, or reach out if you'd like to collaborate!
