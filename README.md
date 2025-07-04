@@ -2,13 +2,35 @@
 
 Welcome to my personal developer portfolio! This website is a reflection of my skills, projects, and journey as an aspiring **AI Engineer** and **Full Stack Developer**. Built from scratch using HTML, CSS, and JavaScript, it features a modern UI and responsive design — no frameworks, just clean code and creativity.
 
+**👨‍💻 Built using:**
+
+1) HTML5, CSS3, JavaScript
+
+2) Responsive layout with custom styling
+
+3) Integrated contact form, resume viewer/download
+
+4) Interactive sections for Skills, Projects, Certifications, Education & Contact
+
+**💼 Key Highlights:**
+
+1) Showcases real-world projects like an Autonomous Vehicle Navigation System using YOLOv8 & an Expense Tracker Web App.
+
+2) Visual timeline of educational background and certifications from AWS, Google, NPTEL.
+
+3) Modern and engaging UI/UX design to reflect both tech skills and creativity.
+
+**🔗 Check it out live:**
+
+🌐 Live Portfolio
+📂 GitHub Repo
+📄 [Download Resume](./D.%20RajeshResume2.pdf)
+
+🙌 Feel free to explore, give feedback, or reach out if you'd like to collaborate!
+
 ---
 
-## 🔗 Live Portfolio
-
-🌍 [Visit Portfolio Website](https://your-hosting-link.com)
-
-📄 [Download Resume](./D.%20RajeshResume2.pdf)
+## What my Portfolio contains
 
 ---
 
@@ -38,9 +60,9 @@ This portfolio showcases:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Skills
 
-| Category     | Technologies Used                           |
+| Category     | Technologies                           |
 |--------------|---------------------------------------------|
 | Frontend     | HTML5, CSS3, JavaScript                     |
 | Backend      | Python, Django, Node.js, Express            |
