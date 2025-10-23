@@ -252,7 +252,8 @@ body {
   justify-content: center;
 }
 .circle-bg {
-  box-shadow: 0 0 20px rgba(0, 209, 255, 0.4);
+  height: 400px;
+  box-shadow: 0 0 30px rgba(0, 209, 255, 0.4);
 }
 
 .profile-img {
